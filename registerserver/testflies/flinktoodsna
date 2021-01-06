@@ -1,0 +1,6 @@
+Setting HADOOP_CONF_DIR=/etc/hadoop/conf because no HADOOP_CONF_DIR was set.
+2020-07-14 18:06:33,053 WARN  org.apache.flink.yarn.cli.FlinkYarnSessionCli                 - The configuration directory ('/usr/local/flink-1.10.0/conf') already contains a LOG4J config file.If you want to use logback, then please delete or rename the log configuration file.
+2020-07-14 18:06:33,053 WARN  org.apache.flink.yarn.cli.FlinkYarnSessionCli                 - The configuration directory ('/usr/local/flink-1.10.0/conf') already contains a LOG4J config file.If you want to use logback, then please delete or rename the log configuration file.
+jdbc:mysql://172.16.8.158:3306/bd_ads?useUnicode=true&characterEncoding=UTF-8
+adt
+DB@pwd123
